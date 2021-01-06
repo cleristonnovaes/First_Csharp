@@ -1,0 +1,16 @@
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/bin/Debug/net5.0/First_Csharp
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/bin/Debug/net5.0/First_Csharp.deps.json
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/bin/Debug/net5.0/First_Csharp.runtimeconfig.json
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/bin/Debug/net5.0/First_Csharp.runtimeconfig.dev.json
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/bin/Debug/net5.0/First_Csharp.dll
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/bin/Debug/net5.0/ref/First_Csharp.dll
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/bin/Debug/net5.0/First_Csharp.pdb
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.csprojAssemblyReference.cache
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.AssemblyInfoInputs.cache
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.AssemblyInfo.cs
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.csproj.CoreCompileInputs.cache
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.dll
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/ref/First_Csharp.dll
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.pdb
+/home/cleriston/Documentos/MeusProjetos/First_Csharp/obj/Debug/net5.0/First_Csharp.genruntimeconfig.cache

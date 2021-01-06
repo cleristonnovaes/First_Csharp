@@ -3,7 +3,7 @@ namespace First_Csharp
     internal class Aluno
     {
     }
-}namespace 
+}
 {
     public struct Aluno
     {

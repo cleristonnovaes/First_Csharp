@@ -16,7 +16,7 @@ namespace First_Csharp
                     case "1":
                         Console.WriteLine("Informe o nome do aluno: ");
                         Aluno aluno = new Aluno();
-                        aluno.Nome = Console.ReadLine();
+                        aluno= Console.ReadLine();
                         break;
                     case "2":
                         //Listar alunos
